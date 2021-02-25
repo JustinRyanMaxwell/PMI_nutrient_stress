@@ -1,0 +1,10 @@
+SampleID,Number,Organism,negSamps,posSamps
+P1,1,pmi,mtab_TSQ_cm_PMI_2020_1112_86,mtab_TSQ_cm_PMI_2020_1112_58
+P3,2,pmi,mtab_TSQ_cm_PMI_2020_1112_83,mtab_TSQ_cm_PMI_2020_1112_55
+R1,3,pmi,mtab_TSQ_cm_PMI_2020_1112_81,mtab_TSQ_cm_PMI_2020_1112_53
+N2,4,pmi,mtab_TSQ_cm_PMI_2020_1112_88,mtab_TSQ_cm_PMI_2020_1112_60
+N3,5,pmi,mtab_TSQ_cm_PMI_2020_1112_80,mtab_TSQ_cm_PMI_2020_1112_52
+N1,6,pmi,mtab_TSQ_cm_PMI_2020_1112_89,mtab_TSQ_cm_PMI_2020_1112_61
+R2,7,pmi,mtab_TSQ_cm_PMI_2020_1112_82,mtab_TSQ_cm_PMI_2020_1112_54
+R3,8,pmi,mtab_TSQ_cm_PMI_2020_1112_84,mtab_TSQ_cm_PMI_2020_1112_56
+P2,9,pmi,mtab_TSQ_cm_PMI_2020_1112_87,mtab_TSQ_cm_PMI_2020_1112_59
